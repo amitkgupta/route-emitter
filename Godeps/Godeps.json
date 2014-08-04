@@ -15,11 +15,11 @@
 		},
 		{
 			"ImportPath": "github.com/cloudfoundry-incubator/runtime-schema/bbs",
-			"Rev": "87f475ec1fded85151513b07f4c72798efe1ade4"
+			"Rev": "9c2381f56bbb269678b149bc268e21cf7d06f615"
 		},
 		{
 			"ImportPath": "github.com/cloudfoundry-incubator/runtime-schema/models",
-			"Rev": "87f475ec1fded85151513b07f4c72798efe1ade4"
+			"Rev": "9c2381f56bbb269678b149bc268e21cf7d06f615"
 		},
 		{
 			"ImportPath": "github.com/cloudfoundry/gibson",
@@ -61,7 +61,7 @@
 		},
 		{
 			"ImportPath": "github.com/pivotal-golang/lager",
-			"Rev": "4a7f4216b220966ac3500c9ff297aeae68278a45"
+			"Rev": "e8822eb6379ecd32065776bd84139100cffa5563"
 		},
 		{
 			"ImportPath": "github.com/tedsuo/ifrit",
